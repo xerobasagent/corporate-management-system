@@ -1,0 +1,4 @@
+{
+  "name": "Corporate Management System",
+  "postCreateCommand": "cp .env.example .env || true"
+}
