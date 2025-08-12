@@ -1,0 +1,32 @@
+# Dependencies
+/node_modules
+/mobile/node_modules
+
+# Bun
+.bun
+bun.lockb
+
+# Vite
+.vite
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build output
+dist
+.next
+out
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Other
+.DS_Store
+*.pem
